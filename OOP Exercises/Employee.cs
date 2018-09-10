@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace OOP_exercises
 {
+    // resolution for Problem 6. Company Roster from:
+    // https://github.com/RAstardzhiev/Software-University-SoftUni/blob/master/C%23%20OOP%20Basics/Defining%20Classes%20-%20Exercise/Readme.md
 
     // TODO: Define a class Employee that holds the following information: name, salary, position, department, email and age
     // TODO: The name, salary, position and department are mandatory while the rest are optional.
