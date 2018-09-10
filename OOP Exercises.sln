@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP Exercises", "OOP Exercises\OOP Exercises.csproj", "{EA9AA4AA-1334-47D8-909C-D1ABD68DE4D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 06 - Company Roster", "OOP Exercises\Problem 06 - Company Roster.csproj", "{EA9AA4AA-1334-47D8-909C-D1ABD68DE4D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
